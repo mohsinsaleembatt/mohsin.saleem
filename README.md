@@ -9,11 +9,14 @@ I've been learning to code for about 2 years from different online platforms wit
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Abdullah Mohsin](http://abdullahmohsin.com)
 * ✉️  You can contact me at [abdullahmohsinsaleem@gmail.com](mailto:abdullahmohsinsaleem@gmail.com)
-* 🧠  I'm learning ReactJS, Tailwind, TypeScript, Python.
+* 🧠  I'm learning ReactJS, Tailwind, TypeScript,Python.
 * 🤝  I'm open to collaborating on ZeroToMastery
 
 <a href="https://www.github.com/mohsinsaleem" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mohsinsaleem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/mohsinsaleem?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.x.com/mohsin___saleem" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mohsin___saleem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
+/></a><a href="https://www.twitch.tv/mohsinsaleem" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/mohsinsaleem?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=ffffff&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
@@ -31,7 +34,17 @@ src="https://img.shields.io/github/followers/mohsinsaleem?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mohsinsaleem"><img src="https://github-readme-stats.vercel.app/api?username=mohsinsaleem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohsinsaleem's GitHub stats" /></a>
+<a href="http://www.github.com/mohsinsaleem"><img src="https://github-readme-stats.vercel.app/api?username=mohsinsaleem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="mohsinsaleem's GitHub stats" /></a>
+
+<a href="http://www.github.com/mohsinsaleem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinsaleem&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/mohsinsaleem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohsinsaleem&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mohsinsaleem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinsaleem&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 <a href="http://www.github.com/mohsinsaleem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinsaleem&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
